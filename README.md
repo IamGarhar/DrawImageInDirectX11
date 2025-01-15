@@ -1,5 +1,3 @@
-# DirectX11
-
 # Draw a image in Direct3D 11 Programing
 
 
