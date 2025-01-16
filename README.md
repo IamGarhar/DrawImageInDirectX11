@@ -19,6 +19,8 @@ Here is an example setup in my environment.
     - Language > Conformance mode > [ No ]
   - Linker
     -  System > Subsystem > [ Not Set ]
+
+  And install DirectXTex on your project.
   
 ## Author
 Name: IamGarhar\
